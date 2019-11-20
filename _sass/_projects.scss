@@ -4,7 +4,7 @@
     height: 250px;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: 50%;
 
     .thumbnail {
         overflow: hidden;
@@ -14,9 +14,9 @@
         img {
             height: auto;
             position: relative;
-                left: -25%;
-                top: -5%;
-            width: 500px;
+                left: 0%;
+                top: 0%;
+            width: 100%;
         }
 
         a {
