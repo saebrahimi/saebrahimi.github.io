@@ -1,0 +1,7 @@
+---
+layout: page
+title: FigureQA
+description: An Annotated Figure Dataset for Visual Reasoning.
+img: /assets/img/datasets/figureqa.png
+redirect: https://www.microsoft.com/en-us/research/project/figureqa-dataset/
+---

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: datasets
+permalink: /datasets/
+description: The list of datasets I have been involved in creating.
 ---
 
-{% for project in site.projects %}
+{% for project in site.datasets %}
 
 {% if project.redirect %}
 <div class="project">
