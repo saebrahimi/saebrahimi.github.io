@@ -1,7 +1,0 @@
----
-layout: page
-title: i-CLEVR
-description: A dataset for iterative generation of images guided by linguistic instructions.
-img: /assets/img/datasets/iclevr.png
-redirect: https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/
----
