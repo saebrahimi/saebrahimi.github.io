@@ -55,8 +55,7 @@
       <em>In {{entry.booktitle}}</em>
     {% endif %}
     {% if entry.year %}
-      {{entry.year}}
-    {% endif %}
+      {{entry.year}}{% endif %}{% if entry.note %}, <em>{{entry.note}}</em>{% endif %}
     </span>
   {% endif %}
 
@@ -73,6 +72,9 @@
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
   {% endif %}
+  {% if entry.remotepdf %}
+    [<a href="{{ entry.remotepdf }}" target="_blank">PDF</a>]
+  {% endif %}
   {% if entry.supp %}
     [<a href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supp</a>]
   {% endif %}
@@ -81,6 +83,9 @@
   {% endif %}
   {% if entry.slides %}
     [<a href="{{ entry.slides | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Slides</a>]
+  {% endif %}
+  {% if entry.remoteslides %}
+    [<a href="{{ entry.remoteslides }}" target="_blank">Slides</a>]
   {% endif %}
   {% if entry.code %}
     [<a href="{{ entry.code }}" target="_blank">Code</a>]
