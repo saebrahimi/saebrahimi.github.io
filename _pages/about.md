@@ -20,7 +20,7 @@ I am a postdoctoral researcher at [McGill](http://rl.cs.mcgill.ca){:target="\_bl
 My current research interests are multimodal learning, reasoning across modalities, metalearning and in general efficient representation learning.
 I also work on deep learning methods for dialogue systems and humanitarian AI.
 
-I was on maternity leave from May 2018 to April 2019.
+I was on maternity leave from May 2018 to February 2019.
 
 Before my postdoc, I was a researcher at [Microsoft Research Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/){:target="\_blank"}.
 
