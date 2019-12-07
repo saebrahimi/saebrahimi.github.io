@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Mila, Office F11</p>
     <p>6666 Rue Saint-Urbain</p>
-    <p>Montreal, QC</p>
+    <p>Montréal, QC</p>
 
 news: true
 social: true
