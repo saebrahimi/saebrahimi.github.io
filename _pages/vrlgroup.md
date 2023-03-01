@@ -36,7 +36,6 @@ description:
 [Nikunj Gupta](https://nikunj-gupta.github.io/)
 
 ### Alumni
-[Moslem Yazdanpanah](https://mosymosy.github.io/), _Master at University of Kurdistan/Mila, currently Ph.D. student at ÉTS_
 [Abdalgader Abubaker](https://rw.linkedin.com/in/abdalgader-abubaker), _Master in the [AMMI Program](https://aimsammi.org/), currently AI Resident at Facebook AI_
 <br />
 [Hadia Samil](https://rw.linkedin.com/in/hadia-samil-bab976197), _Master in the [AMMI Program](https://aimsammi.org/)_
@@ -51,7 +50,11 @@ description:
 <br />
 [Kamalesh Palanisamy](https://kamaleshp.com/), _Intern, co-supervised with [Eugene Belilovsky](http://eugenium.github.io/), currently Master's student at UT Dallas_
 <br />
+[Moslem Yazdanpanah](https://mosymosy.github.io/), _Master at University of Kurdistan/Mila, currently Ph.D. student at ÉTS_
+<br />
 [Ramnath Kumar](https://ramnathkumar181.github.io/), _Intern, currently Consultant at Mila_
+<br />
+[Saghar Batebi](https://www.linkedin.com/in/saghar-batebi-0172574a/), _Research Associate, co-supervised with [Rita Noumeir](https://www.etsmtl.ca/en/research/professors/rnoumeir/)_
 <br />
 [Shiva Kanth Sujit](https://shivakanthsujit.github.io/), _Intern, currently Master's student at ÉTS_
 <br />
