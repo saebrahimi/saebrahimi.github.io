@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Samira Ebrahimi Kahou #<strong>Your</strong> Name
-description: Associate Professor at <a href="https://www.etsmtl.ca/" target="_blank">École de technologie supérieure, Département de génie logiciel et des TI</a><br />Adjunct Professor at <a href="https://www.cs.mcgill.ca/" target="_blank">McGill, School of Computer Science</a><br /><a href="https://cifar.ca/ai/canada-cifar-ai-chairs/" target="_blank">Canada CIFAR AI Chair</a><br />Member of <a href="https://mila.quebec/" target="_blank">Mila</a> and the <a href="https://chusj-sip-ia.ca/home" target="_blank">Clinical Decision Support Systems Lab</a>
+description: Associate Professor at <a href="https://www.etsmtl.ca/" target="_blank">École de technologie supérieure, Département de génie logiciel et des TI</a><br />Adjunct Professor at <a href="https://www.cs.mcgill.ca/" target="_blank">McGill, School of Computer Science</a><br /><a href="https://cifar.ca/ai/canada-cifar-ai-chairs/" target="_blank">Canada CIFAR AI Chair</a><br />Member of <a href="https://mila.quebec/" target="_blank">Mila</a>, the <a href="https://chusj-sip-ia.ca/home" target="_blank">Clinical Decision Support Systems Lab</a>, and <a href="https://en.cliq-ai.quebec/home" target="_blank">Computational Linguistics in Québec (CLIQ-ai)</a>
 #<a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
