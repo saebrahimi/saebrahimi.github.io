@@ -52,7 +52,7 @@ description:
 <br />
 [Moslem Yazdanpanah](https://mosymosy.github.io/), _Master at University of Kurdistan/Mila, currently Ph.D. student at ÉTS_
 <br />
-[Ramnath Kumar](https://ramnathkumar181.github.io/), _Intern, currently Consultant at Mila_
+[Ramnath Kumar](https://ramnathkumar181.github.io/), _Intern, currently Pre-Doctoral Researcher at Google_
 <br />
 [Saghar Batebi](https://www.linkedin.com/in/saghar-batebi-0172574a/), _Research Associate, co-supervised with [Rita Noumeir](https://www.etsmtl.ca/en/research/professors/rnoumeir/)_
 <br />
