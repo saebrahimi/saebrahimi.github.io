@@ -7,32 +7,36 @@ description:
 
 ### Members
 #### Ph.D. students
+[Abdalwhab Bakheet](https://scholar.google.com/citations?user=3voeyWEAAAAJ&hl=en&oi=ao), _co-supervised with [David St-Onge](https://initrobots.etsmtl.ca/)_
+<br />
+[Aser Lompo](https://fr.linkedin.com/in/boammani-aser-lompo-6994aa1b6), _co-supervised with [Rita Noumeir](https://www.etsmtl.ca/en/research/professors/rnoumeir/) and [Philippe Jouvet](https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in15318/)_
+<br />
 [Ivaxi Sheth](https://scholar.google.com/citations?user=Isz5M1UAAAAJ&hl=en&oi=ao)
+<br />
+[Patrik Kenfack](https://patrikken.github.io/), _co-supervised with [Ulrich Aïvodji](https://aivodji.github.io/)_
+<br />
+[Pedro Braga](https://phbraga.com/), _co-supervised with [Hansenclever Bassani](https://hfbassani.github.io/)_
+<br />
+[Pranav Agarwal](https://pranaval.github.io/), _co-supervised with [Sheldon Andrews](http://profs.etsmtl.ca/sandrews/)_
+<br />
+[Sahar Dastani Oghani](https://sahardastani.github.io/), _co-supervised with [Rita Noumeir](https://www.etsmtl.ca/en/research/professors/rnoumeir/) and [Philippe Jouvet](https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in15318/)_
 <br />
 [Somjit Nath](https://somjit77.github.io/)
 
 #### Master's students
+[Aamer Abdul Rahman](https://aamer98.github.io/), _co-supervised with [Rita Noumeir](https://www.etsmtl.ca/en/research/professors/rnoumeir/) and [Philippe Jouvet](https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in15318/)_
+<br />
+[Emmanuel Sindikubwabo](#), _co-supervised with [Naouel Moha](https://www.etsmtl.ca/en/research/professors/nmoha/)_
+<br />
 [Jithendaraa Subramanian](https://jithendaraa.github.io/), _co-supervised with [Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/)_
 <br />
-[Mohammad Reza Samsami](https://mrsamsami.github.io/), _co-supervised with [Sheldon Andrews](http://profs.etsmtl.ca/sandrews/)_
-<br />
-[Pranav Agarwal](https://pranaval.github.io/), _co-supervised with [Sheldon Andrews](http://profs.etsmtl.ca/sandrews/)_
-<br />
 [Shiva Kanth Sujit](https://shivakanthsujit.github.io/)
-<br />
-[Shruti Joshi](https://shrutij01.github.io/)
 
 #### Intern
-[Aamer Abdul Rahman](https://aamer98.github.io/)
-
-### Student collaborators
-Moslem Yazdanpanah
-<br />
-[Pedro Braga](https://phbraga.com/)
-<br />
-[Sina Mohammadi](https://scholar.google.com/citations?user=SQ_rJ98AAAAJ&hl=en)
+[Nikunj Gupta](https://nikunj-gupta.github.io/)
 
 ### Alumni
+[Moslem Yazdanpanah](https://mosymosy.github.io/), _Master at University of Kurdistan/Mila, currently Ph.D. student at ÉTS_
 [Abdalgader Abubaker](https://rw.linkedin.com/in/abdalgader-abubaker), _Master in the [AMMI Program](https://aimsammi.org/), currently AI Resident at Facebook AI_
 <br />
 [Hadia Samil](https://rw.linkedin.com/in/hadia-samil-bab976197), _Master in the [AMMI Program](https://aimsammi.org/)_
