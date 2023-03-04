@@ -48,7 +48,7 @@ description:
 <br />
 [Julie Galliere](https://fr.linkedin.com/in/julie-galliere-b4442a153), _Master, co-supervised with [Jose Dolz](https://josedolz.github.io/)_
 <br />
-[Kamalesh Palanisamy](https://kamaleshp.com/), _Intern, co-supervised with [Eugene Belilovsky](http://eugenium.github.io/), currently Master's student at UT Dallas_
+[Kamalesh Palanisamy](#), _Intern, co-supervised with [Eugene Belilovsky](http://eugenium.github.io/), currently Master's student at UT Dallas_
 <br />
 [Moslem Yazdanpanah](https://mosymosy.github.io/), _Master at University of Kurdistan/Mila, currently Ph.D. student at ÉTS_
 <br />
