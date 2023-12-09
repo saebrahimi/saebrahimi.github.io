@@ -95,7 +95,7 @@ highlighter: pygments
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor,'blog','backup']
+exclude: [vendor,'blog','backup', '_pages/vrlgroup']
 
 # Plug-ins
 plugins:
