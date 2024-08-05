@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Samira Ebrahimi Kahou
-email: samira.ebrahimi.kahou@gmail.com
+email: samira.ebrahimi.kahou.lab@gmail.com
 description: > # this means to ignore newlines until "url:"
   Academic homepage of Samira Ebrahimi Kahou.
 footer_text: >
@@ -107,7 +107,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: E. Kahou #Einstein
+  last_name: Ebrahimi Kahou #Einstein
 
   style: apa
   locale: en
